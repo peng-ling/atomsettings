@@ -1,0 +1,13 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "1950d1c5-5c90-4c0b-91e0-9faed0af4411"
+  core:
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  "exception-reporting":
+    userId: "a1c2499a-2596-4341-9d69-5b6bfb3a64c0"
+  "git-diff-details":
+    enableSyntaxHighlighting: true
+  welcome:
+    showOnStartup: false
