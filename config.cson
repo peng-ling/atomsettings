@@ -9,5 +9,10 @@
     userId: "a1c2499a-2596-4341-9d69-5b6bfb3a64c0"
   "git-diff-details":
     enableSyntaxHighlighting: true
+  "linter-eslint":
+    disableWhenNoEslintConfig: false
+  "linter-ui-default":
+    panelHeight: 61
+    showPanel: true
   welcome:
     showOnStartup: false
